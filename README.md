@@ -1,12 +1,12 @@
-# Prediksi Konsumsi Energi
+# Energy Consumption Prediction
 
-## About
+## ℹ️ About
 
-Machine Learning models to predict energy consumption.
+Development of machine learning models to forecast energy consumption across various building types. The primary goal is to provide building managers with actionable insights into key consumption drivers, enabling significant energy optimization.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-- Programming Language: Python.
-- Environment: Jupyter Notebook.
-- Libraries: pandas, NumPy, Matplotlib, seaborn, SciPy, and scikit-learn.
-- Tool: Google Colab.
+- 🌐 Programming Language: Python.
+- 🌱 Environment: Jupyter Notebook.
+- ⚛️ Libraries: pandas, NumPy, Matplotlib, seaborn, SciPy, and scikit-learn.
+- ⚡ Tool: Google Colab.
