@@ -6,7 +6,7 @@ Development of machine learning models to forecast energy consumption across var
 
 ## 🛠️ Technologies Used
 
-- 🌐 Programming Language: Python.
-- 🌱 Environment: Jupyter Notebook.
-- ⚛️ Libraries: pandas, NumPy, Matplotlib, seaborn, SciPy, and scikit-learn.
-- ⚡ Tool: Google Colab.
+- 🌐 **Programming Language:** Python.
+- 🌱 **Environment:** Jupyter Notebook.
+- ⚛️ **Libraries:** NumPy, pandas, Matplotlib, seaborn, SciPy, and scikit-learn.
+- ⚡ **Tool:** Google Colab.
