@@ -4,6 +4,11 @@
 
 Development of machine learning models to forecast energy consumption across various building types. The primary goal is to provide building managers with actionable insights into key consumption drivers, enabling significant energy optimization.
 
+## ⚙️ Algorithm
+
+- 🧮 **Linear regression**
+- 🌲 **Decision tree**
+
 ## 🛠️ Technologies Used
 
 - 🌐 **Programming Language:** Python.
