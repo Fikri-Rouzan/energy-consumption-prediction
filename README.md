@@ -6,8 +6,8 @@ Development of machine learning models to forecast energy consumption across var
 
 ## ⚙️ Algorithm
 
-- 🧮 **Linear Regression**
-- 🌲 **Decision Tree**
+- 🧮 **Linear Regression.**
+- 🌲 **Decision Tree.**
 
 ## 🛠️ Technologies Used
 
