@@ -299,6 +299,8 @@ if scaler and lr_model and dt_model:
                 use_container_width=True,
             )
 
+            st.markdown("---")
+
             # Konfigurasi pembagian halaman
             ITEMS_PER_PAGE = 5
             total_pages = math.ceil(total_items / ITEMS_PER_PAGE)
