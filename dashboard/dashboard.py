@@ -66,7 +66,7 @@ st.markdown(
 st.markdown("---")
 
 tab1, tab2, tab3 = st.tabs(
-    ["🔍 Prediksi Konsumsi", "📖 Panduan Parameter", "🕒 Riwayat Analisis"]
+    ["🔍 Prediksi Konsumsi", "📖 Panduan Parameter", "🕒 Riwayat"]
 )
 
 # Memastikan komponen model termuat
@@ -222,7 +222,7 @@ if scaler and lr_model and dt_model:
                     },
                 }
             )
-            st.toast("Prediksi berhasil disimpan ke tab riwayat!", icon="💾")
+            st.toast("Prediksi berhasil disimpan ke tab 'Riwayat'!", icon="💾")
 
     # Tab 2 untuk panduan parameter
     with tab2:
