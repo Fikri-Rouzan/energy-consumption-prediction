@@ -2,13 +2,13 @@
 
 ## 📌 Deskripsi
 
-Proyek ini dirancang untuk memprediksi tingkat konsumsi energi pada berbagai jenis bangunan berdasarkan karakteristik fisik dan faktor lingkungan. Dengan memanfaatkan pemodelan machine learning, sistem ini menganalisis variabel seperti jenis bangunan, luas bangunan, jumlah penghuni, peralatan yang digunakan, suhu rata-rata, dan hari dalam seminggu untuk memperkirakan penggunaan daya dalam satuan kWh. Hasil akhir dari proyek ini ditujukan untuk membantu manajer gedung dalam memahami pola penggunaan daya serta menentukan faktor yang memengaruhi konsumsi energi guna mengoptimalkan efisiensi operasional.
+Proyek ini merupakan implementasi pemodelan machine learning yang digunakan untuk memprediksi besaran konsumsi energi dalam satuan kWh pada berbagai kategori bangunan. Pemodelan dibangun dengan menganalisis parameter masukan yang mencakup jenis bangunan, luas area, jumlah penghuni, jumlah peralatan aktif, suhu rata-rata wilayah, serta pengaruh hari dalam seminggu. Hasil akhir dari proyek ini ditujukan untuk membantu manajer gedung dalam memetakan pola penggunaan daya dan mengidentifikasi faktor yang memengaruhi konsumsi energi guna mendukung efisiensi operasional bangunan.
 
 ---
 
 ## 💾 Dataset
 
-Dataset yang digunakan dalam proyek ini memuat gambaran mengenai faktor karakteristik bangunan dan kondisi lingkungan yang memengaruhi tingkat penggunaan daya. Di dalamnya terdapat data terstruktur yang mencakup beberapa atribut spesifik seperti jenis bangunan, luas area bangunan, jumlah penghuni, jumlah peralatan yang digunakan, serta suhu rata-rata harian. Selain itu, dataset ini juga memuat informasi hari dalam seminggu serta nilai target variabel berupa konsumsi energi dalam satuan kWh untuk mendukung proses pemodelan prediktif.
+Dataset yang digunakan dalam proyek ini memuat data mengenai variabel operasional bangunan dan kondisi lingkungan yang memengaruhi tingkat penggunaan daya. Atribut yang tersedia di dalam data ini meliputi kategori jenis bangunan, luas bangunan, jumlah penghuni, jumlah peralatan yang digunakan, serta rata-rata suhu wilayah. Selain itu, terdapat informasi mengenai kategori hari serta nilai target berupa jumlah konsumsi energi dalam satuan kWh sebagai acuan untuk proses pemodelan prediktif.
 
 ---
 
