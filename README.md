@@ -2,13 +2,13 @@
 
 ## 📌 Deskripsi
 
-Proyek ini dirancang untuk memprediksi tingkat konsumsi energi berdasarkan beberapa parameter kondisi lingkungan dan operasional. Dengan menggunakan pemodelan berbasis machine learning, sistem ini memperkirakan besaran penggunaan daya dari data sampel yang dimasukkan. Hasil dari proyek ini digunakan untuk memahami pola penggunaan energi serta membantu pengelolaan konsumsi daya menjadi lebih efisien.
+Proyek ini dirancang untuk memprediksi tingkat konsumsi energi pada berbagai jenis bangunan berdasarkan karakteristik fisik dan faktor lingkungan. Dengan memanfaatkan pemodelan machine learning, sistem ini menganalisis variabel seperti jenis bangunan, luas bangunan, jumlah penghuni, peralatan yang digunakan, suhu rata-rata, dan hari dalam seminggu untuk memperkirakan penggunaan daya dalam satuan kWh. Hasil akhir dari proyek ini ditujukan untuk membantu manajer gedung dalam memahami pola penggunaan daya serta menentukan faktor yang memengaruhi konsumsi energi guna mengoptimalkan efisiensi operasional.
 
 ---
 
 ## 💾 Dataset
 
-Dataset yang digunakan dalam proyek ini memuat informasi mengenai faktor lingkungan dan karakteristik operasional yang memengaruhi tingkat penggunaan daya listrik. Di dalamnya mencakup sampel data terstruktur yang berisi beberapa atribut seperti metrik suhu, tingkat hunian, serta status operasional sistem untuk mendukung proses analisis dan pemodelan konsumsi energi.
+Dataset yang digunakan dalam proyek ini memuat gambaran mengenai faktor karakteristik bangunan dan kondisi lingkungan yang memengaruhi tingkat penggunaan daya. Di dalamnya terdapat data terstruktur yang mencakup beberapa atribut spesifik seperti jenis bangunan, luas area bangunan, jumlah penghuni, jumlah peralatan yang digunakan, serta suhu rata-rata harian. Selain itu, dataset ini juga memuat informasi hari dalam seminggu serta nilai target variabel berupa konsumsi energi dalam satuan kWh untuk mendukung proses pemodelan prediktif.
 
 ---
 
