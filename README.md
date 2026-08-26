@@ -1,4 +1,4 @@
-# Energy Consumption Prediction
+# PowerAnalytics
 
 ## 📌 Deskripsi
 
@@ -34,8 +34,8 @@ Dataset yang digunakan dalam proyek ini memuat data mengenai variabel operasiona
 2. **Clone Repositori**
 
 ```bash
-git clone https://github.com/Fikri-Rouzan/energy-consumption-prediction.git
-cd energy-consumption-prediction
+git clone https://github.com/Fikri-Rouzan/poweranalytics.git
+cd poweranalytics
 ```
 
 3. **Buat Virtual Environment**
